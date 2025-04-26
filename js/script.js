@@ -54,9 +54,9 @@ ScrollReveal().reveal(".home-content p,.aboutdescription2,.email,.subject", {
 
 const typed = new Typed(".multi-text", {
   strings: [
-    "Full Stack Web Developer",
-    "UI/UX Designer",
-    "Programming Enthusiast",
+    "Life Coach",
+    "Astropreneur",
+    // "Programming Enthusiast",
   ],
   typeSpeed: 50,
   backSpeed: 10,
